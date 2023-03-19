@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0NqFQE+GDR1QRX3q4Xm9054VCAVxXwO3D01z2b6zya9NWE0cM8Ezs+VVCCqHIUFlL8J2ARRKnoCVXrhPdRX39w==",
+  "success": true,
+  "projectFilePath": "/Users/bilalhamdan/Projects/MyProject/myProject/myProject.csproj",
+  "expectedPackageFiles": [
+    "/Users/bilalhamdan/.nuget/packages/microsoft.aspnetcore.spaproxy/6.0.14/microsoft.aspnetcore.spaproxy.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
